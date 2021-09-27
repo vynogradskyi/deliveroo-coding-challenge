@@ -1,25 +1,29 @@
 ﻿<Properties StartupConfiguration="{5DDBEEA6-A1DF-4750-9547-C98A81A98091}|Default">
-  <MonoDevelop.Ide.ItemProperties.CronParser FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CronParset.Test/UnitTest1.cs">
+  <MonoDevelop.Ide.ItemProperties.CronParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CronParser/Utils.cs">
     <Files>
-      <File FileName="CronParser/Program.cs" Line="1" Column="1" />
-      <File FileName="CronParset.Test/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="CronParser/Program.cs" Line="16" Column="10" />
+      <File FileName="CronParset.Test/UnitTest1.cs" Line="12" Column="10" />
+      <File FileName="CronParser/Parser.cs" Line="12" Column="1" />
+      <File FileName="CronParser/Utils.cs" Line="5" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CronParser" expanded="True">
             <Node name="CronParser" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Utils.cs" selected="True" />
             </Node>
             <Node name="CronParset.Test" expanded="True" />
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CronParset.Test FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
