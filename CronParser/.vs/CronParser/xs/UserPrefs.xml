@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{5DDBEEA6-A1DF-4750-9547-C98A81A98091}|Default">
   <MonoDevelop.Ide.ItemProperties.CronParser FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CronParser/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CronParset.Test/UnitTest1.cs">
     <Files>
       <File FileName="CronParser/Program.cs" Line="1" Column="1" />
+      <File FileName="CronParset.Test/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,12 +12,14 @@
             <Node name="CronParser" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="CronParset.Test" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CronParset.Test FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
