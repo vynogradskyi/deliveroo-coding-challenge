@@ -15,7 +15,6 @@ namespace CronParser
 
 
             var command = splitParam[5];
-            Console.WriteLine("command: {0}", command);
 
 
             var cc = Utils.Parse(splitParam[0], splitParam[1], splitParam[2], splitParam[3], splitParam[4]);

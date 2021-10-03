@@ -5,12 +5,8 @@ namespace CronParser
 {
     public static class Utils
     {
-
-
         public static CronCommand Parse(string min, string hrs, string dayOfMonth, string month, string dayOfWeek)
         {
-
-            Console.WriteLine("min/hrs/dom/m/dow: {0}/{1}/{2}/{3}/{4}", min, hrs, dayOfMonth, month, dayOfWeek);
 
             min = parseRegular(min, 59);
             hrs = parseRegular(hrs, 23);
@@ -85,13 +81,14 @@ namespace CronParser
         {
             if (isNotContainsSpecial(cronItem)) return parseRegular(cronItem, 7);
 
+            //todo: Continue to work on more complicated cases
             return "";
         }
 
         public static bool isNotContainsSpecial(string str)
         {
             if (str.Contains("W") || str.Contains("L") || str.Contains("#")) return false;
-
+            //todo: Continue to work on more complicated cases
             return true;
         }
 
