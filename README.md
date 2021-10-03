@@ -11,7 +11,7 @@
 - No validation - validation should be added later
     - Parameter validation (input is string in proper format)
     - String contains 6 values split by space mins/hours/day-of-week/month/day-of-month/command
-    - every Cron item of the string is in correct [format][https://docs.oracle.com/cd/E12058_01/doc/doc.1014/e12030/cron_expressions.htm]
+    - every Cron item of the string is in correct [format](https://docs.oracle.com/cd/E12058_01/doc/doc.1014/e12030/cron_expressions.htm)
 
 
 ### Not achieved
@@ -21,7 +21,7 @@ I was able to implement only basic scenario in a given time. No special letters 
 ### Installation
 version of the framework is *.Net Core 3.1*
 
-- [install dotnet on your machine][https://docs.microsoft.com/en-us/dotnet/core/install/] 
+- [install dotnet on your machine](https://docs.microsoft.com/en-us/dotnet/core/install/)
 - go to solution folder (one where CronParser.sln is)
 - to build the project run: `dotnet build CronParser.sln`
 - to run tests: `dotnet test`
