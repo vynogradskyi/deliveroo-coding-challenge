@@ -57,5 +57,14 @@ namespace CronParser.Test
             var expected = "0 6 12 18";
             Assert.Equal(actual, expected);
         }
+
+
+        [Fact]
+        public void parseRegularForDashSeparatedValues()
+        {
+            var actual = Utils.parseRegular("14-23", 23);
+            var expected = "14 15 16 17 18 19 20 21 22 23";
+            Assert.Equal(actual, expected);
+        }
     }
 }

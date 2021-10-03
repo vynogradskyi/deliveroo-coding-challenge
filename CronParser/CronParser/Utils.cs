@@ -30,6 +30,12 @@ namespace CronParser
                 return makeResult(0, step, max);
             }
 
+            if (cronItem.Contains("-")){
+                var items = cronItem.Split("-");
+
+                return makeResult(int.Parse(items[0]), 1, int.Parse(items[1]));
+            }
+
             return cronItem;
         }
 

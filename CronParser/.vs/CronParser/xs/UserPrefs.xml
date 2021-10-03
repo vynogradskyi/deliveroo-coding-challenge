@@ -1,19 +1,28 @@
 ﻿<Properties StartupConfiguration="{5DDBEEA6-A1DF-4750-9547-C98A81A98091}|Default">
   <MonoDevelop.Ide.ItemProperties.CronParser PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CronParser.Test/UtilsTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CronParser/Utils.cs">
     <Files>
-      <File FileName="CronParser/Program.cs" Line="24" Column="1" />
-      <File FileName="CronParser/Parser.cs" Line="4" Column="29" />
-      <File FileName="CronParser/Utils.cs" Line="57" Column="10" />
-      <File FileName="CronParser.Test/UtilsTest.cs" Line="13" Column="40" />
+      <File FileName="CronParser/Utils.cs" Line="33" Column="17" />
+      <File FileName="CronParser.Test/UtilsTest.cs" Line="66" Column="56" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CronParser" expanded="True">
-            <Node name="CronParser" expanded="True" />
+            <Node name="CronParser" expanded="True">
+              <Node name="Utils.cs" selected="True" />
+            </Node>
+            <Node name="CronParser.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CronParser" expanded="True">
             <Node name="CronParser.Test" expanded="True">
-              <Node name="UtilsTest.cs" selected="True" />
+              <Node name="CronParser.Test" expanded="True">
+                <Node name="UtilsTest" expanded="True" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -26,5 +35,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CronParser.Test FirstBuild="True" />
 </Properties>
