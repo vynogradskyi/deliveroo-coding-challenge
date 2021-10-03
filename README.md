@@ -1,6 +1,6 @@
 # deliveroo-coding-challenge
 
-## Assumptions made during implementations
+### Assumptions made during implementations
 - No special words like @yearly
 - No error handling, i mean it
     - if i would work on such task in real life, there would be one ofc
@@ -14,11 +14,11 @@
     - every Cron item of the string is in correct [format][https://docs.oracle.com/cd/E12058_01/doc/doc.1014/e12030/cron_expressions.htm]
 
 
-## Not achieved
+### Not achieved
 
-I was able to implement only basic scenario in a given time. No special letters or symbols like: L, W, C, #. No reserved words for Months and Dys like (Jan, Jul, Mon, Wed etc). 
+I was able to implement only basic scenario in a given time. No special letters or symbols like: L, W, C, #. No reserved words for Months and Days like (Jan, Jul, Mon, Wed etc). 
 
-## Installation
+### Installation
 version of the framework is *.Net Core 3.1*
 
 - [install dotnet on your machine][https://docs.microsoft.com/en-us/dotnet/core/install/] 
