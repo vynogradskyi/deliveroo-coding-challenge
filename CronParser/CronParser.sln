@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.808.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronParser", "CronParser\CronParser.csproj", "{5DDBEEA6-A1DF-4750-9547-C98A81A98091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronParset.Test", "CronParset.Test\CronParset.Test.csproj", "{71849AE8-FD41-4F4D-9B2C-38645C497D64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronParser.Test", "CronParser.Test\CronParser.Test.csproj", "{263B85D2-5B57-483D-B259-76ECCEE69726}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5DDBEEA6-A1DF-4750-9547-C98A81A98091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DDBEEA6-A1DF-4750-9547-C98A81A98091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DDBEEA6-A1DF-4750-9547-C98A81A98091}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71849AE8-FD41-4F4D-9B2C-38645C497D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71849AE8-FD41-4F4D-9B2C-38645C497D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71849AE8-FD41-4F4D-9B2C-38645C497D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71849AE8-FD41-4F4D-9B2C-38645C497D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263B85D2-5B57-483D-B259-76ECCEE69726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263B85D2-5B57-483D-B259-76ECCEE69726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263B85D2-5B57-483D-B259-76ECCEE69726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263B85D2-5B57-483D-B259-76ECCEE69726}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

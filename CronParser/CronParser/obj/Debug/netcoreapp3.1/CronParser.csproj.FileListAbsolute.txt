@@ -1,0 +1,12 @@
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/bin/Debug/netcoreapp3.1/CronParser.deps.json
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/bin/Debug/netcoreapp3.1/CronParser.runtimeconfig.json
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/bin/Debug/netcoreapp3.1/CronParser.runtimeconfig.dev.json
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/bin/Debug/netcoreapp3.1/CronParser.dll
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/bin/Debug/netcoreapp3.1/CronParser.pdb
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.csprojAssemblyReference.cache
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.AssemblyInfoInputs.cache
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.AssemblyInfo.cs
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.csproj.CoreCompileInputs.cache
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.dll
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.pdb
+/Users/vvinogradskiy/Work/temp/deliveroo-coding-challenge/CronParser/CronParser/obj/Debug/netcoreapp3.1/CronParser.genruntimeconfig.cache
