@@ -66,5 +66,19 @@ namespace CronParser.Test
             var expected = "14 15 16 17 18 19 20 21 22 23";
             Assert.Equal(actual, expected);
         }
+
+        [Fact]
+        public void noWordsShouldReturnTrue()
+        {
+            var actual = Utils.noWords("1234,123,234,L5");
+            Assert.True(actual);
+        }
+
+        [Fact]
+        public void noWordsShouldReturnFalse()
+        {
+            var actual = Utils.noWords("July,123,Aug");
+            Assert.False(actual);
+        }
     }
 }
